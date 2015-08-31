@@ -1,0 +1,14 @@
+C:\projects\ecf50\ThirdPartyIntegration\EmsLibrary\bin\Debug\EmsLibrary.dll
+C:\projects\ecf50\ThirdPartyIntegration\EmsLibrary\bin\Debug\EmsLibrary.pdb
+C:\projects\ecf50\ThirdPartyIntegration\EmsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\ecf50\ThirdPartyIntegration\EmsLibrary\obj\Debug\EmsLibrary.dll
+C:\projects\ecf50\ThirdPartyIntegration\EmsLibrary\obj\Debug\EmsLibrary.pdb
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\EmsLibrary\bin\Debug\EmsLibrary.dll
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\EmsLibrary\bin\Debug\EmsLibrary.pdb
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\EmsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\EmsLibrary\obj\Debug\EmsLibrary.dll
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\EmsLibrary\obj\Debug\EmsLibrary.pdb
+C:\Users\mparks\DotNetProjects\EmsLibrary\bin\Debug\EmsLibrary.dll
+C:\Users\mparks\DotNetProjects\EmsLibrary\bin\Debug\EmsLibrary.pdb
+C:\Users\mparks\DotNetProjects\EmsLibrary\obj\Debug\EmsLibrary.dll
+C:\Users\mparks\DotNetProjects\EmsLibrary\obj\Debug\EmsLibrary.pdb
