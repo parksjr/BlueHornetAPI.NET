@@ -8,7 +8,9 @@ A .NET Library that effortlessly integrates with BlueHornet API, built for Only 
 
 ## Installation
 
-Download the source code, compile in Visual Studio 2010 or greater, add the reference to your solution or project.
+> Download the latest binary release in the [Downloads](https://bitbucket.org/onp/ems-library/downloads) section of this repository, or
+> download the source code and compile in Visual Studio 2010 or greater.  
+> Include downloaded or compiled binary file in your solution
 
 ## Basic Usage
 > You can view all details on Blue Hornet's API at their online reference guide: http://resources.bluehornet.com/api/guide
