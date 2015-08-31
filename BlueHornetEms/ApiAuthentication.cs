@@ -40,6 +40,16 @@ namespace EmsLibrary.BlueHornetEms
             //return base.ToString();
         }
 
+        public static ApiAuthentication CreateAuthenticationObject(string key, string secret, bool noHalt)
+        {
+            ApiAuthentication output = new ApiAuthentication();
+            output.ApiKey = key;
+            output.ApiSecret = secret;
+            output.ResponseType = ApiResponseType.XML;
+            output.NoHalt = noHalt;
+            return output;
+        }
+
         public static ApiAuthentication CreateAuthenticationObject(string key, string secret, ApiResponseType responseType, bool noHalt)
         {
             ApiAuthentication output = new ApiAuthentication();
