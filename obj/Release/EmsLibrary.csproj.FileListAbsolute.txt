@@ -1,0 +1,4 @@
+C:\Users\mparks\DotNetProjects\EmsLibrary\bin\Release\EmsLibrary.dll
+C:\Users\mparks\DotNetProjects\EmsLibrary\bin\Release\EmsLibrary.pdb
+C:\Users\mparks\DotNetProjects\EmsLibrary\obj\Release\EmsLibrary.dll
+C:\Users\mparks\DotNetProjects\EmsLibrary\obj\Release\EmsLibrary.pdb
