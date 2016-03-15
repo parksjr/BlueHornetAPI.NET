@@ -1,6 +1,6 @@
-# EMS Library
+# BlueHornetAPI.NET
 
-A .NET Library that effortlessly integrates with BlueHornet API, built for Only Natural Pet.
+A .NET Library that effortlessly integrates with BlueHornet API.
 
 ## Requirements
 
@@ -8,7 +8,7 @@ A .NET Library that effortlessly integrates with BlueHornet API, built for Only 
 
 ## Installation
 
-> Download the latest binary release in the [Downloads](https://bitbucket.org/onp/ems-library/downloads) section of this repository, or
+> Download the latest binary release in the [Downloads](https://github.com/parksjr/BlueHornetAPI.NET/releases) section of this repository, or
 > download the source code and compile in Visual Studio 2010 or greater.  
 > Include downloaded or compiled binary file in your solution
 
